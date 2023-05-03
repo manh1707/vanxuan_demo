@@ -1,0 +1,207 @@
+{
+    "type": "stock",
+    "code": "lephat",
+    "table": [
+        {
+            "type": "table",
+            "attributes": {
+                "colNum": 2,
+                "rowNum": 2,
+                "colSize": 20,
+                "rowSize": 20
+            },
+            "cell": [
+                {
+                    "col": 0,
+                    "row": 0,
+                    "latin": "Việt",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 0,
+                    "latin": "Nam",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 0,
+                    "row": 1,
+                    "latin": "Quyết",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 1,
+                    "latin": "Thắng",
+                    "kanji": "粤"
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "attributes": {
+                "colNum": 2,
+                "rowNum": 10,
+                "colSize": 20,
+                "rowSize": 20
+            },
+            "cell": [
+                {
+                    "col": 0,
+                    "row": 0,
+                    "latin": "Việt",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 0,
+                    "latin": "Nam",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 0,
+                    "row": 1,
+                    "latin": "Quyết",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 1,
+                    "latin": "Thắng",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 0,
+                    "row": 2,
+                    "latin": "Quyết",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 2,
+                    "latin": "Thắng",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 0,
+                    "row": 3,
+                    "latin": "Quyết",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 3,
+                    "latin": "Thắng",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 0,
+                    "row": 4,
+                    "latin": "Quyết",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 4,
+                    "latin": "Thắng",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 0,
+                    "row": 5,
+                    "latin": "Quyết",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 5,
+                    "latin": "Thắng",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 0,
+                    "row": 6,
+                    "latin": "Quyết",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 6,
+                    "latin": "Thắng",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 0,
+                    "row": 7,
+                    "latin": "Quyết",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 7,
+                    "latin": "Thắng",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 0,
+                    "row": 8,
+                    "latin": "Quyết",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 8,
+                    "latin": "Thắng",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 0,
+                    "row": 9,
+                    "latin": "Quyết",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 9,
+                    "latin": "Thắng",
+                    "kanji": "粤"
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "attributes": {
+                "colNum": 2,
+                "rowNum": 2,
+                "colSize": 20,
+                "rowSize": 20
+            },
+            "cell": [
+                {
+                    "col": 0,
+                    "row": 0,
+                    "latin": "Việt",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 0,
+                    "latin": "Nam",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 0,
+                    "row": 1,
+                    "latin": "Quyết",
+                    "kanji": "粤"
+                },
+                {
+                    "col": 1,
+                    "row": 1,
+                    "latin": "Thắng",
+                    "kanji": "粤"
+                }
+            ]
+        }
+    ]
+}
